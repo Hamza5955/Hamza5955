@@ -1,7 +1,5 @@
 ### Hi there, I'm [Hamza][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hamzajam.it)
-
 ## I'm a Developer!!
 
 - 🔭 I just launched my first course: [my site][course]!
