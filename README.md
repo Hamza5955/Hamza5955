@@ -2,10 +2,9 @@
 
 ## I'm a Developer!!
 
-- 🔭 I just launched my first course: [my site][course]!
 - 🌱 I am currently working on a project 🚀🚀🚀🔥🔥
-- 👯 I am looking for a job as jr full stack developer
-- 🥅 2021 Goals: Finish the personal site
+- 👯 jr developer
+- 🥅 2022 Goals: ***************************
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamza5955&label=Profile%20views&color=0e75b6&style=flat" alt="Hamza5955" /> </p>
 ### Connect with me:
