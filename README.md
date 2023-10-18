@@ -40,6 +40,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza5955&" alt="Hamza5955" /></p>
 
-[website]: http://jamilham.xyz
-[course]: http://jamilham.xyz
+[website]: https://hamzajam.com/
 [linkedin]: http://linkedin.com/in/hamzajamil595
