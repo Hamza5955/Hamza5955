@@ -2,8 +2,6 @@
 
 ## I'm a Developer!!
 
-- 👯 jr developer
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamza5955&label=Profile%20views&color=0e75b6&style=flat" alt="Hamza5955" /> </p>
 ### Connect with me:
 
